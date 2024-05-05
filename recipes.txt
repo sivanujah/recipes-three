@@ -1,4 +1,4 @@
-Cake
+Yummy cake
 
 Ingredients:
 
@@ -6,3 +6,6 @@ Ingredients:
 - flour
 - butter
 - nuts
+
+Instruction 
+- mix everything
