@@ -1,0 +1,51 @@
+---
+title: "recipes.qmd"
+format: html
+editor: visual
+---
+
+# Recipes
+
+Hello, in the following you will see some interesting recipes that I found to sound delicious.
+
+## **Carrot cake**
+
+*Vegan*
+
+**Ingredients**
+
+#### Batter
+
+250g Carrots
+
+125g Vegan Butter at room temperature
+
+100g sugar/maple syrup
+
+1 pinch salt
+
+1 pinch vanilla extract
+
+2 flax eggs
+
+125g all-purpose flour
+
+1/2 tsp cinnamon
+
+1 1/2 tsp baking powder
+
+100g almonds
+
+1 tsp apple cider vinegar
+
+1/2 tsp baking soda
+
+#### Cream
+
+200g cream cheese
+
+80g powdered sugar
+
+squeeze of lemon juice
+
+optional: vanilla extract
